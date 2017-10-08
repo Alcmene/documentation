@@ -1,7 +1,7 @@
 Vous trouverez ici la documentation pour installer Jeedom sur un raspberry PI *avec une carte SD.*
 
 [IMPORTANT]
-Debian 9 (Strecht) est la distribution officiellement supportée pour la version 3.1.5 de jeedom (mais jessie reste parfaitement fonctionnelle).
+Debian 9 (Strecht) est la distribution officiellement supportée pour la version 3.1.7 de jeedom (mais jessie reste parfaitement fonctionnelle).
 
 
 *1/ Télécharger le dernière image "lite", c'est à dire sans interface graphique*
